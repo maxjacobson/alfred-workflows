@@ -1,6 +1,6 @@
 # alfred-workflows
 
-some simple programs to called from [Alfred 2](http://alfredapp.com)
+some simple programs to call from [Alfred 2](http://alfredapp.com)
 
 ## doesfollow
 
