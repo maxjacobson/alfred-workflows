@@ -2,6 +2,12 @@
 
 some simple programs to call from [Alfred 2](http://alfredapp.com)
 
+## itunesicon
+
+adapted from brett terpstra's script after he put out the challenge [here](http://brettterpstra.com/2013/04/30/web-excursions-for-april-30-2013/), this makes it easy to download iOS app icons
+
+usage: `itunesicon reeder`
+
 ## twurl
 
 takes a tweet url from your clipboard, changes it into a tweetbot url, and copies that into your clipboard
