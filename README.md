@@ -37,3 +37,7 @@ usage: `tree`
 opens a Terminal window to the path provided
 
 usage: `cd Dropbox/gh-repos`
+
+## tab
+
+takes the frontmost tab in FirefoxNightly (you'll have to edit it to use a different browser) and make a quick entry task in OmniFocus
